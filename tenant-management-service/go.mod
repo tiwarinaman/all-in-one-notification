@@ -1,0 +1,1 @@
+module tenant-management-service
